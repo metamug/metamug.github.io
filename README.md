@@ -1,20 +1,12 @@
 # metamug.github.io"
 
-> Metamug docs
+[Metamug docs](https://metamug.com/docs/)
 
-# https://metamug.com/docs/
+[Metamug blogs](https://metamug.com/blog/)
 
-> Metamug articles
+[Metamug articles](https://metamug.com/article/)
 
-# https://metamug.com/article/
-
-> Metamug blogs
-
-# https://metamug.com/blog/
-
-> Metamug pricing
-
-# https://metamug.com/pricing.php
+[Metamug pricing](https://metamug.com/pricing.php)
 
 > Metamug Videos
 
