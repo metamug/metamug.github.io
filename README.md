@@ -1,22 +1,22 @@
 # metamug.github.io"
 
-<!-- Metamug docs -->
+> Metamug docs
 
 # https://metamug.com/docs/
 
-<!-- Metamug articles -->
+> Metamug articles
 
 # https://metamug.com/article/
 
-<!-- Metamug blogs -->
+> Metamug blogs
 
 # https://metamug.com/blog/
 
-<!-- Metamug pricing -->
+> Metamug pricing
 
 # https://metamug.com/pricing.php
 
-<!-- Metamug Videos -->
+> Metamug Videos
 
 # https://www.youtube.com/embed/qLphDkJim9I 
 
