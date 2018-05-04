@@ -4,9 +4,9 @@
 
 [Metamug blogs](https://metamug.com/blog/)
 
-[Metamug articles](https://metamug.com/article/)
-
 [Metamug pricing](https://metamug.com/pricing.php)
+
+[Metamug articles](https://metamug.com/article/)
 
 > Metamug Videos
 
