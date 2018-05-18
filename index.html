@@ -7,6 +7,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <link rel="shortcut icon" type="image/png" href="./images/favicon.ico"/>
   <style>
   /* Remove the navbar's default margin-bottom and rounded borders */ 
   .navbar {
@@ -32,22 +33,36 @@
     }
     .row.content {height:auto;} 
   }
+  body {
+    background: #eaeaed;
+    color: #fff;
+    font: 600 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+  }
+  footer {
+    background: #2d2d2d;
+    bottom: 0;
+    left: 0;
+    padding: 20px 0;
+    position: fixed;
+    right: 0;
+    text-align: center;
+  }
 </style>
 </head>
 <body>
 
   <nav class="navbar navbar-inverse">
     <div class="container-fluid">
-      <div class="navbar-header">
+      <div class="navbar-header ">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>                        
         </button>
-        <a class="navbar-brand" href="https://metamug.github.io/">Metamug</a>
+        <a class="navbar-brand" href="https://metamug.github.io/" style="text-transform: uppercase;font-family:">Metamug</a>
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
-        <ul class="nav navbar-nav">
+        <ul class="nav navbar-nav pull-right  ">
           <li><a href="https://metamug.com/docs/">Documentation</a></li>
           <li><a href="https://github.com/metamug/metamug.github.io">GitHub</a></li>
         </ul>
@@ -55,15 +70,21 @@
     </div>
   </nav>
 
-  <div class="jumbotron text-center">
+  <div class="jumbotron text-center" style="background: white;color: black;padding: 6em;">
     <img src="./images/metamug.png" alt="metamug">
-    <p>Metamug API Development</p> 
+    <p>The API Development Framework</p> 
   </div>
-  
-  <div class="container">
+
+  <div class="container" style="margin-bottom: 5em;">
     <div class="row">
-      
+      <div role="alert" class="alert alert-info" data-reactid="23"><h4 data-reactid="24"> <span class="glyphicon glyphicon-bullhorn" data-reactid="32"></span> Here is an example to write APIs with just SQL.</h4>
+      </div>
+      <div role="alert" class="alert alert-warning" data-reactid="30">
+       <img class="img-responsive" src="https://metamug.com/img/console.gif" style="display: block;margin-left: auto;margin-right: auto;">
+      </p>
     </div>
   </div>
+</div>
+<footer>Metamug | Github </footer>
 </body>
 </html>
